@@ -17,8 +17,9 @@ Dependency- https://github.com/qbcore-framework/qb-target and
 
 Installation - 
 Add this in your QBTarget Init or Config
+
 Config.TargetModels = {
-  ["PDGarage"] = {
+    ["PDGarage"] = {
 		models = {
 			`ig_trafficwarden`
 		},
@@ -32,4 +33,3 @@ Config.TargetModels = {
 			},
 		},
 		distance = 4.5,
-	},
