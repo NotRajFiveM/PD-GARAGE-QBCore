@@ -1,4 +1,6 @@
 # PD-GARAGE-QBCore
+READ THE README AFTER DOWNLOAD THE FILE
+
 Just Drag and drop script
 
 You can config the ped location in the config file
@@ -14,6 +16,8 @@ Not made by me ;)
 Preiview - https://www.youtube.com/watch?v=lhTjFGfqzeE
 
 Dependency- https://github.com/qbcore-framework/qb-target and 
+
+
 
 Installation - 
 Add this in your QBTarget Init or Config
@@ -32,4 +36,5 @@ Config.TargetModels = {
 				
 			},
 		},
-		distance = 4.5,
+		distance = 4.5,		
+	
